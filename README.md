@@ -11,4 +11,5 @@ Skills: JAVA / REACT / JS /PHP / LARAVEL / HTML / CSS
 - 📫 How to reach me: abdelrhmanmnajaa@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdelrhmanmnajaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdelrhmanmnajaa)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://abdelrhman-mnajaa.github.io/Abdelrhman-Mnajaa/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdelrhmanmnajaa)  
