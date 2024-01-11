@@ -4,7 +4,7 @@
 
 Software developer !
 
-Skills: JAVA / REACT / JS /PHP / LARAVEL / HTML / CSS
+Skills: JAVA / REACT / JS /PHP (LARAVEL) / Python (Django) 
 
 - 🔭 I’m currently working on Java and Spring Boot 
 - 🌱 I’m currently learning Spring boot  
